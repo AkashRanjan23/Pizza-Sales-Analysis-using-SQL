@@ -1,6 +1,6 @@
 ---
 
-# Pizza Sales Analysis Project
+# Pizza Sales Analysis Project using SQL
 
 ## Overview
 This project aims to analyze sales data from a pizza business using SQL. The goal is to generate comprehensive reports that provide insights into sales performance, customer preferences, popular items, and other relevant metrics. These insights can be used to optimize operations, enhance customer satisfaction, and drive revenue growth.
